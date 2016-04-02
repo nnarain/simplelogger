@@ -10,6 +10,12 @@
 namespace simplelogger
 {
 
+/**
+	\class ConsoleLogger
+	\brief Log to console window (std::cout)
+
+	\ingroup DefaultLoggers
+*/
 class ConsoleLogger : public StreamLogger
 {
 public:

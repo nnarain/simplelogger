@@ -4,13 +4,16 @@
 
 namespace simplelogger
 {
-	// log level
+	/**
+		\enum Level 
+		\ingroup API
+	*/
 	enum Level
 	{
-		INFO = 0,
-		DEBUG,
-		WARN,
-		ERROR,
+		INFO = 0, ///< Informational 
+		DEBUG,    ///< Debbuging
+		WARN,     ///< Warning
+		ERROR,    ///< Error
 
 		LEVEL_COUNT
 	};
