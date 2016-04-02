@@ -9,9 +9,18 @@
 namespace simplelogger
 {
 
+/**
+	\class StreamLogger
+	\brief Log to an output stream object
+
+	\ingroup DefaultLoggers
+*/
 class StreamLogger : public LoggerBase
 {
 public:
+	/**
+		\param os output stream to log to
+	*/
 	StreamLogger(std::ostream& os) : os_(os)
 	{
 	}

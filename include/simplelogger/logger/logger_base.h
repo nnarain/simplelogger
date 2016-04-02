@@ -8,6 +8,12 @@
 namespace simplelogger
 {
 
+/**
+	\class LoggerBase
+	\brief Define the main logging interface
+
+	\ingroup API
+*/
 class LoggerBase
 {
 public:
