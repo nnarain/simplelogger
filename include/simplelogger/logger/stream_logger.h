@@ -22,7 +22,7 @@ public:
 
 	virtual void log(Level level, const char * message, size_t message_len)
 	{
-		std::string msg(message, message_len);
+		std::string msg(message);
 		os_ << msg;
 	}
 
