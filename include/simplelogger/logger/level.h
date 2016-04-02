@@ -10,7 +10,9 @@ namespace simplelogger
 		INFO = 0,
 		DEBUG,
 		WARN,
-		ERROR
+		ERROR,
+
+		LEVEL_COUNT
 	};
 }
 
