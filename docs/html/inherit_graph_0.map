@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classsimplelogger_1_1LoggerBase.html" title="Define the main logging interface. " alt="" coords="6,5,178,32"/>
+<area shape="rect" id="node2" href="$classsimplelogger_1_1StreamLogger.html" title="Log to an output stream object. " alt="" coords="227,5,411,32"/>
+<area shape="rect" id="node3" href="$classsimplelogger_1_1ConsoleLogger.html" title="Log to console window (std::cout) " alt="" coords="459,5,650,32"/>
+</map>

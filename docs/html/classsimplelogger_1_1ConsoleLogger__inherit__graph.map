@@ -1,0 +1,4 @@
+<map id="simplelogger::ConsoleLogger" name="simplelogger::ConsoleLogger">
+<area shape="rect" id="node2" href="$classsimplelogger_1_1StreamLogger.html" title="Log to an output stream object. " alt="" coords="8,80,192,107"/>
+<area shape="rect" id="node3" href="$classsimplelogger_1_1LoggerBase.html" title="Define the main logging interface. " alt="" coords="14,5,185,32"/>
+</map>

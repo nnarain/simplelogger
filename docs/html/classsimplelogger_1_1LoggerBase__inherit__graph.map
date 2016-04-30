@@ -1,0 +1,4 @@
+<map id="simplelogger::LoggerBase" name="simplelogger::LoggerBase">
+<area shape="rect" id="node2" href="$classsimplelogger_1_1StreamLogger.html" title="Log to an output stream object. " alt="" coords="8,80,192,107"/>
+<area shape="rect" id="node3" href="$classsimplelogger_1_1ConsoleLogger.html" title="Log to console window (std::cout) " alt="" coords="5,155,195,181"/>
+</map>
