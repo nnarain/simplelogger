@@ -4,8 +4,12 @@
 	\author Natesh Narain
 */
 
-/** \defgroup API API */
-/** \defgroup DefaultLoggers Provided Loggers */
+/** \defgroup API API 
+	Interface for using Simeple Logger framework
+*/
+/** \defgroup DefaultLoggers Provided Loggers 
+	Loggers provided by Simple Logger framework
+*/
 
 #ifndef SIMPLE_LOGGER_H
 #define SIMPLE_LOGGER_H
